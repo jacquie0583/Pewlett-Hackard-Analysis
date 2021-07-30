@@ -7,7 +7,7 @@ Retirement Titles - Retrieved number of employees by recent job title, filter by
 
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/jacquie0583/Pewlett-Hackard-Analysis/blob/main/image%202.png">
+  <img width="600" height="500" src="https://github.com/jacquie0583/Pewlett-Hackard-Analysis/blob/main/image%202.png">
 </p> 
 
 
@@ -16,7 +16,7 @@ Using DataFrames and tabular data, we designed the entity relationship diagrams 
 
 
 <p align="center">
-<img width="300" height="300" src="https://github.com/jacquie0583/Pewlett-Hackard-Analysis/blob/main/image%201.png">
+<img width="600" height="600" src="https://github.com/jacquie0583/Pewlett-Hackard-Analysis/blob/main/image%201.png">
 </p> 
 
 
@@ -33,7 +33,7 @@ Using DataFrames and tabular data, we designed the entity relationship diagrams 
         
         
 <p align="center">
-<img width="300" height="300" src="https://github.com/jacquie0583/Pewlett-Hackard-Analysis/blob/main/image%204.png">
+<img width="600" height="300" src="https://github.com/jacquie0583/Pewlett-Hackard-Analysis/blob/main/image%204.png">
 </p> 
         
          
@@ -43,7 +43,7 @@ Using DataFrames and tabular data, we designed the entity relationship diagrams 
         
         
 <p align="center">
-<img width="300" height="300" src="https://github.com/jacquie0583/Pewlett-Hackard-Analysis/blob/main/image%203.png">
+<img width="800" height="300" src="https://github.com/jacquie0583/Pewlett-Hackard-Analysis/blob/main/image%203.png">
 </p> 
           
    
@@ -55,5 +55,5 @@ The eligibility for mentorship analysis revealed 1,549 individuals can participa
 
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/jacquie0583/Pewlett-Hackard-Analysis/blob/main/image%205.png">
+  <img width="700" height="300" src="https://github.com/jacquie0583/Pewlett-Hackard-Analysis/blob/main/image%205.png">
 </p> 
