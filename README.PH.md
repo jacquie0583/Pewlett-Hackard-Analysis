@@ -2,7 +2,7 @@
 
 ##  Overview of the analysis: 
 
-Grateful for the opportunity to assist your staff in preparing for the upcoming “silver tsunami’.    A vast group of employees are eligible for retirement.  Honorably, Pewlett-Hackard wants to be prepared for alterations in the infrastructure as well as the well-being of those departing, ie., retirement packages, open position, possible staffing adjusts, and employee training.   Identification of employees eligible for the mentorship needs to be assessed.  
+Grateful for the opportunity to assist your staff in preparing for the upcoming “silver tsunami’.  A vast group of employees are eligible for retirement.  Honorably, Pewlett-Hackard wants to be prepared for alterations in the infrastructure as well as the well-being of those departing, ie., retirement packages, open position, possible staffing adjusts, and employee training.   Identification of employees eligible for the mentorship needs to be assessed.  
 Retirement Titles - Retrieved number of employees by recent job title, filter by count
 
 
@@ -24,11 +24,11 @@ Using DataFrames and tabular data, we designed the entity relationship diagrams 
 ##  Results:
 
    1.	 Identification of possible employees retiring
-        •	There are 90,398 individuals who are retiring based on the birth dates from 01-01-1952 and 12-31-                 1955.
+        •	There are 90,398 individuals who are retiring based on the birth dates from 01-01-1952 and 12-31-                         1955.
        •	The table displays a list of employees who are going to retire in the next few years.  
-   2.	    In our review of the data,  we have a few employees who changed positions over the years and their                   records are showing up twice.   
+   2.	    In our review of the data,  we have a few employees who changed positions over the years and their records are             showing up twice.   
    3.	 Department with the most to lose
-       •	Of the Employees, Engineering dept, Employees with Senior Engineer title had the highest amount of                   retiring individuals
+       •	Of the Employees, Engineering dept, Employees with Senior Engineer title had the highest amount of                         retiring individuals
         •	will lose the most amount of staff and  Management dept had the least amount of retiring individuals.
         
         
