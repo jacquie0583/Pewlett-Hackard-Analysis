@@ -33,7 +33,7 @@ Using DataFrames and tabular data, we designed the entity relationship diagrams 
         
         
 <p align="center">
-<img width="300" height="300" src="https://github.com/jacquie0583/World_Weather_Analysis/blob/main/Image%401.png">
+<img width="300" height="300" src="https://github.com/jacquie0583/Pewlett-Hackard-Analysis/blob/main/image%204.png">
 </p> 
         
          
